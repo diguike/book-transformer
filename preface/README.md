@@ -70,3 +70,9 @@ last_synced: "2026-05-07T23:06:09"
 如果运行时遇到 API 不兼容的报错，通常是库版本差异导致的。建议按照各章 `examples/requirements.txt` 安装指定版本。
 
 本书在线版同步发布于 [inferloop.dev](https://inferloop.dev)，包含勘误更新和配套资源。如发现内容被转载，欢迎通过原地址核实最新版本。
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

@@ -317,3 +317,9 @@ with profile(activities=[ProfilerActivity.CUDA], profile_memory=True) as prof:
 
 print(prof.key_averages().table(sort_by="cuda_memory_usage", row_limit=10))
 ```
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

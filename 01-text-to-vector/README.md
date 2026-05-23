@@ -169,3 +169,9 @@ pip install -r examples/requirements.txt
 
 - `01_tokenizer_demo.py`：演示 BERT tokenizer 的使用，展示 token ids 和特殊 token
 - `02_embedding_demo.py`：提取 BERT embedding，计算两个句子的余弦相似度
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

@@ -253,3 +253,9 @@ pip install -r examples/requirements.txt
 
 - `attention_scratch.py`：用 numpy 从零实现 Scaled Dot-Product Attention
 - `attention_torch.py`：用 PyTorch 实现，并与 numpy 版本结果对比
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

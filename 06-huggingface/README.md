@@ -337,3 +337,9 @@ print(f"句子向量维度：{sentence_embedding.shape}")  # (384,)
 ```
 
 对于 embedding 的生产使用，推荐直接用 `sentence-transformers` 库，它封装了池化和归一化逻辑，接口更简洁。第 10 章语义搜索会详细展开。
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

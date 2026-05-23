@@ -254,3 +254,9 @@ RAG 系统的回答质量难以用单一指标衡量，常用三个维度：
 
 GitHub: https://github.com/explodinggradients/ragas
 安装：pip install ragas
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

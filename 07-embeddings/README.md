@@ -162,3 +162,9 @@ embeddings = model.encode(sentences, batch_size=64, show_progress_bar=True)
 `batch_size` 的合理取值取决于显存和模型大小。`all-MiniLM-L6-v2` 在普通 GPU 上 batch_size=256 通常没问题。CPU 推理建议 batch_size=32，平衡内存和速度。
 
 增量更新文档索引时，用 `collection.upsert()` 而不是 `collection.add()`——upsert 会自动跳过已存在的文档，只为新增或修改的文档重新计算 embedding 并更新索引，不需要全量重建。
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

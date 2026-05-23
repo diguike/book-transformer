@@ -254,3 +254,9 @@ Attention 输出: (n, d_v)
 ```
 
 除以 $\sqrt{d_k}$ 是为了防止点积值过大导致 softmax 进入梯度趋近于零的饱和区。
+
+---
+
+> 本附录来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

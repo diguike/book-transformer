@@ -154,3 +154,9 @@ python main.py
 - **重排序（Reranking）**：召回候选后用 Cross-Encoder 模型（如 `cross-encoder/ms-marco-MiniLM-L-6-v2`）重新打分，精度显著提升，代价是延迟增加
 - **多语言支持**：换用 `paraphrase-multilingual-MiniLM-L12-v2` 模型，支持跨语言检索
 - **增量索引**：ChromaDB 的 `upsert` 接口支持按 ID 更新文档，无需重建全量索引
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

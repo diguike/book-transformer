@@ -342,3 +342,9 @@ app.get('/search', async (req, res) => {
 切换时，只需替换 `buildIndex` 和 `search` 的实现，上层接口保持不变。
 
 完整的 `semantic_search.ts` 实现见 `examples/src/semantic_search.ts`。
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

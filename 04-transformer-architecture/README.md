@@ -265,3 +265,9 @@ pip install -r examples/requirements.txt
 - `positional_encoding.py`：实现 `PositionalEncoding` 类，打印前 20 个位置的编码值，验证余弦相似度随距离增大而减小
 - `encoder_block.py`：实现 `EncoderBlock` 和 `Encoder`，6 层堆叠，验证输入输出 shape
 - `transformer_full.py`：完整 Transformer 实现，包含 Decoder，演示自回归生成过程
+
+---
+
+> 本章来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)

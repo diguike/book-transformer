@@ -113,3 +113,9 @@ last_synced: "2026-05-07T23:07:58"
 - 中文任务：BGE 系列（embedding）、哈工大 HFL 系列（分类/NER）、Qwen 系列（生成）
 - 英文任务：Sentence-Transformers、BERT/RoBERTa 系列
 - 多语言：XLM-RoBERTa、NLLB-200、BGE-M3
+
+---
+
+> 本附录来自《Transformer 工程实战》开源版 · 作者「递归客」  
+> 在线阅读完整书系：[inferloop.dev](https://inferloop.dev)  
+> 源码仓库：[github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)
