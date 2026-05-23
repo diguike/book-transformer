@@ -1,5 +1,8 @@
 # Transformer 工程实战
 
+> 在线阅读 · [inferloop.dev/transformer](https://inferloop.dev/transformer)  
+> 所有书目 · [inferloop.dev](https://inferloop.dev)
+
 面向有工程背景、希望转型 AI 方向的工程师。不管你是前端、客户端还是后端，只要写过几年代码，这本书就是为你写的。
 
 ## 在线阅读
@@ -62,3 +65,18 @@ python attention_scratch.py
 ## 许可证
 
 MIT
+
+
+## 相关书
+
+来自同一作者的其他书:
+
+- [《Hermes Agent 源码解读》](https://inferloop.dev/hermes-agent)
+- [《LLM Infra 工程实战》](https://inferloop.dev/llm-infra)
+- [《AI Token 中转站实战》](https://inferloop.dev/llm-gateway)
+- [《Agent Memory 工程实战》](https://inferloop.dev/claude-mem)
+- [《百万级 AI Agent 平台架构》](https://inferloop.dev/enterprise-agent)
+- [《OpenClaw 源码解析》](https://inferloop.dev/openclaw)
+- [《Claude Code Skill 开发指南》](https://inferloop.dev/claude-skill)
+- [《Claude 插件官方指南》](https://inferloop.dev/claude-plugins)
+- [《自己动手写 AI Agent》](https://inferloop.dev/ling-agent)

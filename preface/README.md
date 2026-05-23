@@ -4,6 +4,10 @@ feishu_url: "https://www.feishu.cn/wiki/GwN4wanrCikvfGk8bLgcdgVentb"
 last_synced: "2026-05-07T23:06:09"
 ---
 
+> **配套资源**  
+> 源码仓库 · [github.com/diguike/book-transformer](https://github.com/diguike/book-transformer)  
+> 在线阅读 · [inferloop.dev/transformer](https://inferloop.dev/transformer)
+
 ## 这本书是为谁写的
 
 如果你有三到五年的工程经验，写过前端、后端或客户端代码，现在想搞清楚 LLM 到底是怎么工作的——这本书是为你写的。
