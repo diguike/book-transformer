@@ -1,0 +1,17 @@
+{
+  "name": "transformer-ts-examples",
+  "type": "module",
+  "scripts": {
+    "node-inference": "npx ts-node --esm src/node_inference.ts",
+    "embedding-api": "npx ts-node --esm src/embedding_api.ts"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.0.0",
+    "openai": "^4.47.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2"
+  }
+}
